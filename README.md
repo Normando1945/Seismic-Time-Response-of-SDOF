@@ -5,7 +5,7 @@ Moreover, it is essential for users of this academic software to have sufficient
 
 ### Installation Steps:
 * For optimal performance, install 7zip (free software).
-* Using 7zip, WinRAR, or a similar software, unzip the file **<u>TH_SDOF_CC_setup.7z.001</u>** to your desired location.
+* Using 7zip, WinRAR, or a similar software, unzip the file **<u>"TH_SDOF_CC_setup.7z.001"</u>** to your desired location.
 * Note: Ensure all files downloaded from the repository are in the same folder.
 * Once unzipped, an executable file named "TH_SDOF_CC_setup.exe" will appear. Double-click this file to initiate the installation process. Simply follow the on-screen instructions thereafter.
 
