@@ -5,15 +5,17 @@ Moreover, it is essential for users of this academic software to have sufficient
 
 ### Installation Steps:
 * For optimal performance, install **[7-Zip](https://www.7-zip.org/)** (free software).
-<div align="center">
-    <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/301c9c5b-0307-4e11-a5b6-863d3ccf079d">
-</div>
+  
+    <div align="center">
+        <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/301c9c5b-0307-4e11-a5b6-863d3ccf079d">
+    </div>
 * Using 7zip, WinRAR, or a similar software, unzip the file **<u>"TH_SDOF_CC_setup.7z.001"</u>** to your desired location.
-<div align="center">
-    <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/fbb607ac-6239-43c7-8a3f-afb68d520192">
-</div>
+  
+    <div align="center">
+        <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/0fff86ee-f313-4d6f-9778-7e0436596e5a">
+    </div>
+    
 * Note: Ensure all files downloaded from the repository are in the same folder.
 * Once unzipped, an executable file named "TH_SDOF_CC_setup.exe" will appear. Double-click this file to initiate the installation process. Simply follow the on-screen instructions thereafter.
 
 ### User Manual:
-
