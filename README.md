@@ -4,7 +4,10 @@ This software application is straightforward, designed to compute the time respo
 Moreover, it is essential for users of this academic software to have sufficient knowledge regarding the step-by-step time-domain response calculation of 1 DOF systems. To familiarize oneself with the mathematical foundation, you can visit the repository **[Brief Summary of Undergraduate Structural Dynamics](https://github.com/Normando1945/Normando1945.github.io)**, where you will find an academic summary on this topic.
 
 ### Installation Steps:
-* For optimal performance, install 7zip (free software).
+* For optimal performance, install [7-Zip](https://www.7-zip.org/) (free software).
+<div align="center">
+    <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/301c9c5b-0307-4e11-a5b6-863d3ccf079d">
+</div>
 * Using 7zip, WinRAR, or a similar software, unzip the file **<u>"TH_SDOF_CC_setup.7z.001"</u>** to your desired location.
 * Note: Ensure all files downloaded from the repository are in the same folder.
 * Once unzipped, an executable file named "TH_SDOF_CC_setup.exe" will appear. Double-click this file to initiate the installation process. Simply follow the on-screen instructions thereafter.
