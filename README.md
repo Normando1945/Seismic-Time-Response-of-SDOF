@@ -17,6 +17,16 @@ Moreover, it is essential for users of this academic software to have sufficient
     
 * Note: Ensure all files downloaded from the repository are in the same folder.
 * Once unzipped, an executable file named "TH_SDOF_CC_setup.exe" will appear. Double-click this file to initiate the installation process. Simply follow the on-screen instructions thereafter.
-      * 
+  
+      1. Lee y acepta los terminos y condiciones.
+  
+           <div align="center">
+              <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/c63ab5d4-36ba-4c9e-ac93-76d2aa9c1215">
+           </div>
+      2. Escribe la clave de instalación. Clave: **<u>soloparausoacademico<u>**
+    
+           <div align="center">
+              <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/03de11a9-e7a3-4520-ad4b-23f8f865ba2c">
+           </div>
 
 ### User Manual:
