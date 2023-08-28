@@ -15,6 +15,5 @@ Moreover, it is essential for users of this academic software to have sufficient
 * Note: Ensure all files downloaded from the repository are in the same folder.
 * Once unzipped, an executable file named "TH_SDOF_CC_setup.exe" will appear. Double-click this file to initiate the installation process. Simply follow the on-screen instructions thereafter.
 
-
 ### User Manual:
 
