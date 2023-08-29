@@ -2,6 +2,12 @@
     <img src="https://github.com/Normando1945/Normando1945.github.io/assets/62081230/1ac0bf1d-67cd-43f6-87b0-141417a606db">
 </div>
 
+>##### Author:                 [Msc. Ing. Carlos Andrés Celi Sánchez](https://www.researchgate.net/profile/Carlos-Celi). & [Phd(c). MSc. Ing. José Poveda](https://www.torrefuerte.com)
+
+>##### Course:                 Structural Dynamics
+
+>##### Year:                   May - 2023
+
 ## Introduction:
 This software application is straightforward, designed to compute the time response of underdamped single-degree-of-freedom **[SDOF](https://en.wikipedia.org/wiki/Vibration)** systems using the discrete Beta Newmark method. Importantly, this software should not be seen as a replacement for formal classroom instruction but rather as a tool to supplement it. It was developed mainly for underdamped systems subjected to non-periodic and non-harmonic external excitations, like earthquakes. The primary purpose of this tool is to provide students with a visual aid, helping them comprehend how structures behave during actual seismic events. In doing so, users should be aware of the inherent simplifications and approximations in the **[SDOF](https://en.wikipedia.org/wiki/Vibration)** Beta-Newmark calculation.
 
