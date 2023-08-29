@@ -6,7 +6,13 @@
 
 >##### Course:                 Structural Dynamics
 
->##### Year:                   May - 2023
+
+### **You can find me on**
+[![GitHub Carlos Celi](https://img.shields.io/github/followers/Normando1945?label=follow&style=social)](https://github.com/Normando1945)
+[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=social&logo=researchgate)](https://www.researchgate.net/profile/Carlos-Celi)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=social&logo=google)](https://scholar.google.com.ec/citations?hl=es&user=yR4Gz7kAAAAJ)
+<a href="Carlos Celi:normando1945@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-normando1945@gmail.com-blue?style=flat&logo=gmail"></a>
+
 
 ## Introduction:
 This software application is straightforward, designed to compute the time response of underdamped single-degree-of-freedom **[SDOF](https://en.wikipedia.org/wiki/Vibration)** systems using the discrete Beta Newmark method. Importantly, this software should not be seen as a replacement for formal classroom instruction but rather as a tool to supplement it. It was developed mainly for underdamped systems subjected to non-periodic and non-harmonic external excitations, like earthquakes. The primary purpose of this tool is to provide students with a visual aid, helping them comprehend how structures behave during actual seismic events. In doing so, users should be aware of the inherent simplifications and approximations in the **[SDOF](https://en.wikipedia.org/wiki/Vibration)** Beta-Newmark calculation.
