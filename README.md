@@ -3,7 +3,7 @@
 </div>
 
 ## Introduction:
-This software application is straightforward, designed to compute the time response of underdamped single-degree-of-freedom (1 DOF) systems using the discrete Beta Newmark method. Importantly, this software should not be seen as a replacement for formal classroom instruction but rather as a tool to supplement it. It was developed mainly for underdamped systems subjected to non-periodic and non-harmonic external excitations, like earthquakes. The primary purpose of this tool is to provide students with a visual aid, helping them comprehend how structures behave during actual seismic events. In doing so, users should be aware of the inherent simplifications and approximations in the 1 DOF Beta-Newmark calculation.
+This software application is straightforward, designed to compute the time response of underdamped single-degree-of-freedom **[SDOF](https://en.wikipedia.org/wiki/Vibration)** systems using the discrete Beta Newmark method. Importantly, this software should not be seen as a replacement for formal classroom instruction but rather as a tool to supplement it. It was developed mainly for underdamped systems subjected to non-periodic and non-harmonic external excitations, like earthquakes. The primary purpose of this tool is to provide students with a visual aid, helping them comprehend how structures behave during actual seismic events. In doing so, users should be aware of the inherent simplifications and approximations in the **[SDOF](https://en.wikipedia.org/wiki/Vibration)** Beta-Newmark calculation.
 
 Moreover, it is essential for users of this academic software to have sufficient knowledge regarding the step-by-step time-domain response calculation of 1 DOF systems. To familiarize oneself with the mathematical foundation, you can visit the repository **[Brief Summary of Undergraduate Structural Dynamics](https://github.com/Normando1945/Normando1945.github.io)**, where you will find an academic summary on this topic.
 
@@ -51,13 +51,13 @@ Moreover, it is essential for users of this academic software to have sufficient
 
 ## User Manual:
 
-El uso es bastante simple. se debe ingresar los parametros requeridos en cada uno de los espacios requieridos.
+The usage is straightforward. Please enter the required parameters into the designated spaces
 
-* **Period of motion [from 0.01 to 4]** : Se debe ingresar el periodo fundamental de vibración del sistema de 1gdl que se requiera conocer su respuesta en el tiempo. El presente software, se limita a calcular rangos de peridos estructurales desde **0.01** segundos hasta **4** segundos. Sin embargo el algoritmo permite calcular la respuesta para cualquier periodo mayor a **0** segundos [Periodos menores a **0.01** segundos o mayores a **4** segundos puede generar resultados de baja confiafiablidad por la inherente convergencia y estabilidad del método de calculo].
+* **Period of motion [from 0.01 to 4]** : The fundamental vibration period of the **SDOF** system, whose time response you wish to determine, must be input. This software is limited to calculating structural periods ranging from **0.01** seconds to **4** seconds. Nevertheless, the algorithm can determine the response for any period greater than **0** seconds. Periods less than **0.01** seconds or greater than **4** seconds may yield results with diminished reliability due to the inherent convergence and stability of the calculation method.
   
-* **Damping Ratio [from 0.01 to 0.99]** : Se debe ingresar el valor de amoritiguamiento viscoso equivalente del sistema estructural de 1GDL que se desea analizar. Comprendiendo que el algoritmo se basa en una solución discreta paso a paso en el dominio del tiempo de sistemas subamoritiguados, por tal motivo el rango de valores de amortiguamiento va desde **$\zeta$ = 0.01 a 0.99**. potencialmente se puede usar **$\zeta$ = 0** para describir un sistema conservativo. No se puede emplear  **$\zeta$ >= 1** pues se emularía sistemas sobreamortiguados lo cual implica una inestabilidad numerica en la solucuión paso a paso del presente software.
+* **Damping Ratio [from 0.01 to 0.99]** : You must input the value of the equivalent viscous damping for the **SDOF** structural system you wish to analyze. It's understood that the algorithm is based on a discrete step-by-step solution in the time domain for underdamped systems. For this reason, the range of damping values is from **$\zeta$ = 0.01 to 0.99**. Potentially, **$\zeta$ = 0** can be used to describe a conservative system. Values of **$\zeta$ >= 1** should not be used as they would emulate overdamped systems, which would result in numerical instability in the step-by-step solution of this software.
 
-* **Files in the Folder** : Muestra la cantidad de archhivos en format .AT2 que se encuentran en la carpeta donde se instalo el software **"TH_SDOF_CC_setup.exe"**, oficialmente junto con la instalación se añaden 7 registros sísmicos reales, lsitados a continuación:
+* **Files in the Folder** : Displays the number of .AT2 files located in the folder where the software **"TH_SDOF_CC"** was installed. Officially, along with the installation, 7 real seismic records are added, listed below:
   - AMT_201604162359_E_100.AT2
   - Artificial.AT2
   - ChiChi_longt.AT2
@@ -66,14 +66,14 @@ El uso es bastante simple. se debe ingresar los parametros requeridos en cada un
   - Hollister.AT2
   - Loma_Prieta_1989.AT2
 
-* **Record Selected from the database in the root of the folder, for this data base from 1 to "n"** : Se debe ingresar el **número** del registro sísmico que se desea emplear como exitación externa. para ello se debe observar **"Files in the Folder"**.
-* **PLAY** : Boton que inicializa el calculo.
-* **Random data** : boton que permite llenar todos los campos necesarios con valores aleatorios dentro de los rangos antes especificados.
+* **Record Selected from the database in the root of the folder, for this data base from 1 to "n"** : You must enter the **number** of the seismic record you wish to use as external excitation. To do this, please refer to **"Files in the Folder"**..
+* **PLAY** : Click the **"PLAY"** button to begin the calculation.
+* **Random data** : Clicking this button populates all the necessary fields with random values within the previously specified ranges.
 
-### Resultados.
-El presente software academico presenta los resultados de forma gráfica en dos pantallas indiviuales interactivas. La primera pantalla contiene el registro sísmico empleado junto con la respuesta estructural en desplazamiento, velocidad y aceleración. La segunda pantalla muestra una animación [no a escala] con la respuesta en aceleración del sistema de 1GDL analizado.
+### Results.
+This academic software displays the results graphically across two interactive individual screens. The first screen presents the employed seismic record alongside the structural response in displacement, velocity, and acceleration. The second screen showcases an animation [not to scale] of the acceleration response of the analyzed **SDOF** system.
 
-### Ejemplo.
+### Example.
   <div align="center">
       <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/52487eec-35a0-4eb0-801e-3ecb2d4d1102">
   </div>
@@ -81,5 +81,14 @@ El presente software academico presenta los resultados de forma gráfica en dos 
       <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/82ed8568-5ced-4d3e-a2c1-f492be83ea65">
   </div>
 
-## Importante: 
-Cada vez que se desee realizar un nuevo análisis, se debe dar click en **"Close Windows"**
+## Important: 
+ - Each time you wish to conduct a new analysis, click on **"Close Windows"** button.
+ - If the user wishes to use seismic records other than those pre-loaded in the current software, it can be done in a straightforward manner. To do so, the following steps are recommended:
+    - Navigate to the folder where the program was installed.
+          <div align="center">
+              <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/87a18368-fd0f-4fc5-b1a0-d9223b6dafd0">
+          </div>
+   - Create a new text file with the .AT2 extension, in which the data within the file should be organized into **2 columns**. **The first column** should contain **the time** in units of **seconds**, with decimals separated by **"."**, for example, **"0.055"**. **The second column** represents **the acceleration** values corresponding to each listed time, with acceleration measured in fractions of **g**, , for example, **"1.235"**.
+          <div align="center">
+              <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/8e8b375f-b27e-46d7-80a6-89685123a94d">
+          </div>
