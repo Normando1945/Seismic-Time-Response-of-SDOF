@@ -23,40 +23,40 @@ Moreover, it is essential for users of this academic software to have sufficient
 * For optimal performance, install **[7-Zip](https://www.7-zip.org/)** (free software).
   
     <div align="center">
-        <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/301c9c5b-0307-4e11-a5b6-863d3ccf079d">
+        <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/fed842ae-e290-40b7-a082-b557228eff39">
     </div>
 * Using **[7-Zip]**, **[WinRAR]**, or a similar software, unzip the file **<u>"TH_SDOF_CC_setup.7z.001"</u>** to your desired location.
   
     <div align="center">
-        <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/0fff86ee-f313-4d6f-9778-7e0436596e5a">
+        <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/236e6dd1-6147-4b4a-8061-7f950d0a8b95">
     </div>
     
 * Note: Ensure all files downloaded from the repository are in the same folder.
 * Once unzipped, an executable file named **"TH_SDOF_CC_setup.exe"** will appear. Double-click this file to initiate the installation process. Simply follow the on-screen instructions thereafter.
 * Please read and accept the terms and conditions.
   <div align="center">
-        <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/c63ab5d4-36ba-4c9e-ac93-76d2aa9c1215">
+        <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/3769f8e5-29c7-4013-9d5b-35564187be68">
   </div>
 * Enter the installation key. Password: **<u>soloparausoacademico<u>**
   <div align="center">
-      <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/03de11a9-e7a3-4520-ad4b-23f8f865ba2c">
+      <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/cc18dacd-f6be-4952-8918-c395d16a3af0">
   </div>
 * Select your preferred directory.
   <div align="center">
-      <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/7aea7151-c8e9-42b9-9286-000507fa421a">
+      <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/b781f405-a9f6-41bc-84f6-1c9b95adfc48">
   </div>
 * If you wish, you can create a shortcut on your desktop.
   <div align="center">
-      <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/2207bdfa-f8db-4a77-b4b5-72f1d2e08217">
+      <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/a39da2e6-cad3-4b66-a4af-082c1bcacf1b">
   </div>
   * Proceed with the installation.
   <div align="center">
-      <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/9ccb5ac5-8350-404c-bcbc-9a384548e0a7">
+      <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/766c1a02-f343-48f8-8b8c-89958c3d1fb2">
   </div>
 
   View of the main screen.
   <div align="center">
-      <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/80e65558-c1f5-400c-929a-f577c670cddc">
+      <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/ac9b4f1a-82c0-4a9c-8e91-28586ccc906b">
   </div>
   
 
@@ -87,10 +87,10 @@ This academic software displays the results graphically across two interactive i
 
 ### Example.
   <div align="center">
-      <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/52487eec-35a0-4eb0-801e-3ecb2d4d1102">
+      <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/8d20e7f9-ddfd-4bf3-8421-5f9ee07d2151">
   </div>
   <div align="center">
-      <img src= "https://github.com/Normando1945/TH_SDOF_Carlos_Celi/assets/62081230/82ed8568-5ced-4d3e-a2c1-f492be83ea65">
+      <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/4355650d-9b52-41a8-baf5-60647d3180bc">
   </div>
 
 ## Important: 
@@ -98,9 +98,9 @@ This academic software displays the results graphically across two interactive i
  - If the user wishes to use seismic records other than those pre-loaded in the current software, it can be done in a straightforward manner. To do so, the following steps are recommended:
     - Navigate to the folder where the program was installed.
           <div align="center">
-              <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/87a18368-fd0f-4fc5-b1a0-d9223b6dafd0">
+              <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/a7eac18b-80ad-465d-9fef-b0c9bcb10577">
           </div>
    - Create a new text file with the .AT2 extension, in which the data within the file should be organized into 2 columns. **The first column** should contain **the time** in units of **seconds**, with decimals separated by **"."**, for example, **"0.055"**. **The second column** represents **the acceleration** values corresponding to each listed time, with acceleration measured in fractions of **g**, for example, **"1.235"**.
           <div align="center">
-              <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/8e8b375f-b27e-46d7-80a6-89685123a94d">
+              <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/67dcd4cd-e09b-41ff-9d7c-674702b0b17d">
           </div>
