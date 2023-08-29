@@ -88,7 +88,7 @@ This academic software displays the results graphically across two interactive i
           <div align="center">
               <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/87a18368-fd0f-4fc5-b1a0-d9223b6dafd0">
           </div>
-   - Create a new text file with the .AT2 extension, in which the data within the file should be organized into **2 columns**. **The first column** should contain **the time** in units of **seconds**, with decimals separated by **"."**, for example, **"0.055"**. **The second column** represents **the acceleration** values corresponding to each listed time, with acceleration measured in fractions of **g**, , for example, **"1.235"**.
+   - Create a new text file with the .AT2 extension, in which the data within the file should be organized into 2 columns. **The first column** should contain **the time** in units of **seconds**, with decimals separated by **"."**, for example, **"0.055"**. **The second column** represents **the acceleration** values corresponding to each listed time, with acceleration measured in fractions of **g**, for example, **"1.235"**.
           <div align="center">
               <img src= "https://github.com/Normando1945/Seismic-Time-Response-of-SDOF/assets/62081230/8e8b375f-b27e-46d7-80a6-89685123a94d">
           </div>
