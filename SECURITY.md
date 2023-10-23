@@ -13,7 +13,7 @@ This section outlines the versions of the **"Seismic Time Response of SDOF"** pr
 
 We take the security of our project seriously. If you find a security vulnerability in **"Seismic Time Response of SDOF"** we encourage you to let us know right away. 
 
-To report a security issue, please submit an **'issue'** to our GitHub repository. For sensitive vulnerabilities, please contact the project team directly at [caceli@puce.edu.ec].
+To report a security issue, please submit an **'issue'** to our GitHub repository. For sensitive vulnerabilities, please contact the project team directly at **[caceli@puce.edu.ec]**.
 
 **Here's what you can expect when reporting a vulnerability:**
 
